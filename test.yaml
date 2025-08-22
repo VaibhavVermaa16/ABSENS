@@ -1,0 +1,9 @@
+# Dummy YAML file for testing
+name: Dummy Test
+version: 1.0.0
+description: This is a dummy YAML file for PR testing purposes.
+items:
+  - id: 1
+    value: foo
+  - id: 2
+    value: bar
